@@ -15,7 +15,7 @@
   "social_media_url": "https://twitter.com/mapbox",
   "documentation_url": "https://docs.mapbox.com/ios/api/maps/",
   "source": {
-    "http": "https://mapbox.s3.amazonaws.com/mapbox-gl-native/ios/builds/mapbox-ios-sdk-5.6.1-dynamic.zip",
+    "http": "https://datadash.oss-cn-shanghai.aliyuncs.com/mapbox-ios-sdk-5.6.1-dynamic.zip",
     "flatten": true
   },
   "platforms": {
